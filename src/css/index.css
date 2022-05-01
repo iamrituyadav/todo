@@ -1,0 +1,45 @@
+#main {
+    width: 400px;
+    background-color: rgb(77, 123, 207);
+    display: flex;
+    flex-direction: row;
+    border: 1px solid;
+  }
+  
+  nav {
+    display: flex;
+  }
+  
+  h1 {
+    margin-top: 15px;
+    text-align: center;
+  }
+  
+  #btn {
+    background-color: goldenrod;
+    height: 40px;
+    font-size: 16px;
+  }
+  
+  #notes {
+    padding: 0px 12px;
+  }
+  
+  form {
+    margin-top: 5px;
+    width: min-content;
+  }
+  h2 {
+    margin-left: 10px;
+  }
+  
+  #notes > div {
+    border-bottom: 1px solid;
+    height: auto;
+  }
+  
+  notesDiv {
+    width: 100px;
+    border-left: 1px solid;
+  }
+  
